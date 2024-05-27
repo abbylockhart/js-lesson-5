@@ -1,5 +1,5 @@
-# CLG ASSIGNMENT 3
-Lesson 4 - Javascript
+# CLG ASSIGNMENT 5
+Lesson 5 - Javascript
 
 INSTRUCTIONS
 Declare a function that will use the Window method, setTimeout(). Within this function
